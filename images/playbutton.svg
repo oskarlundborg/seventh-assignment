@@ -1,0 +1,6 @@
+<svg height="500" width="500" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="playbutton" viewBox="0 0 500 500">
+        <rect x="50" y="50" rx="80" ry="80" height="300" width="400" fill="#D8362A"/>
+        <polygon points="210,130 325,200 210,270" fill="white"/> 
+    </symbol>
+</svg>
